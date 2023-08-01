@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\bin\Debug\day-17-assign-20-LibraryManagement.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\bin\Debug\day-17-assign-20-LibraryManagement.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\bin\Debug\day-17-assign-20-LibraryManagement.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\bin\Debug\day-17-assign-20-LibCalculation.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\bin\Debug\day-17-assign-20-LibCalculation.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\bin\Debug\day-17-assign-20-LibCalculation.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\obj\Debug\day-17-assign-20-LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\obj\Debug\day-17-assign-20-LibraryManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\obj\Debug\day-17-assign-20-LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\obj\Debug\day-17-assign-20-LibraryManagement.csproj.CopyComplete
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\obj\Debug\day-17-assign-20-LibraryManagement.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-17\day-17-assign-20-LibraryManagement\day-17-assign-20-LibraryManagement\obj\Debug\day-17-assign-20-LibraryManagement.pdb
